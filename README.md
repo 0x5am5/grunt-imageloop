@@ -19,6 +19,8 @@ grunt.loadNpmTasks('grunt-imageloop');
 
 ## The "image_loop" task
 
+To loop through images and create a subsequent json file.
+
 ### Overview
 In your project's Gruntfile, add a section named `image_loop` to the data object passed into `grunt.initConfig()`.
 
