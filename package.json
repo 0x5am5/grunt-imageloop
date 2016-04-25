@@ -1,14 +1,30 @@
 {
   "name": "grunt-imageloop",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "To loop through images and create a subsequent json file",
+  "homepage": "https://github.com/sambogreggers/grunt-imageloop",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Sam Gregory",
+  "author": {
+    "name": "Sam Gregory",
+    "email": "samuel@digital-detox.co.uk"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sambogreggers/grunt-imageloop.git"
+  },
   "license": "ISC",
   "dependencies": {
     "grunt": ">=0.4.0"
-  }
+  },
+  "keywords": [
+    "gruntplugin",
+    "grunt",
+    "json",
+    "export",
+    "images",
+    "files"
+  ]
 }
