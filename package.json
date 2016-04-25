@@ -1,0 +1,14 @@
+{
+  "name": "grunt-imageloop",
+  "version": "1.0.2",
+  "description": "To loop through images and create a subsequent json file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sam Gregory",
+  "license": "ISC",
+  "dependencies": {
+    "grunt": ">=0.4.0"
+  }
+}
